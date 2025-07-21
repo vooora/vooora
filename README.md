@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vooora&label=Profile%20views&color=0e75b6&style=flat" alt="vooora" /> </p>
 
-- 👨‍💻 All of my projects are available at [vooora.xyz](vooora.xyz)
+- Check out my work on my [my portfolio!](https://vooora.github.io/portfolio/)
 
-- 💬 Ask me about **my projects!**
-
-- 📫 How to reach me **pranathivoora2@gmail.com**
+- Reach me at **pranathivoora2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
