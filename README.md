@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vooora&label=Profile%20views&color=0e75b6&style=flat" alt="vooora" /> </p>
 
-- Check out my work on my [my portfolio!](https://vooora.github.io/portfolio/)
+- Check out my portfolio! [https://vooora.github.io/portfolio/](https://vooora.github.io/portfolio/)
 
 - Reach me at **pranathivoora2@gmail.com**
 
